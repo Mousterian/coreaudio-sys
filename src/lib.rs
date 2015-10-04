@@ -6,5 +6,5 @@
 
 extern crate libc;
 
-pub mod audio_unit;
+pub mod core_audio;
 
